@@ -1,4 +1,4 @@
-package com.cryptocurrencyapp;
+package com.hackhubs.crypto;
 
 import com.facebook.react.ReactActivity;
 
